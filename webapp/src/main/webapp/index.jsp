@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning from SB </h1>
-
+   <img src="pic_trulli.jpg" alt="Girl in a jacket" width="500" height="600">
   
 </form>
